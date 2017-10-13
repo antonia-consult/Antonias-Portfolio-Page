@@ -21,7 +21,7 @@
 */
 
 .background--DarkBlue {
-  background-color: rgb(135,206,250);
+  background-color: rgb(0, 0, 204);
 }
 
 .color--skyBlue {
@@ -29,7 +29,7 @@
 }
 
 .color--cloud {
-  color: rgb(236, 240, 241);
+  color: rgb(0,0,204);
 }
 
 .color--grey {
