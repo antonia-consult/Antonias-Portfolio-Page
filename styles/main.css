@@ -43,15 +43,6 @@
 .section__example {
   background-color: rgb(44, 62, 80);
 }
-
-.header{
-    background: url('../img/bg-banner02.jpg') no-repeat fixed;
-    background-size: cover;
-    min-height: 650px;
-    position: relative;
-}
-
-
 /*
   General Styles
     These are styles to be inherited
