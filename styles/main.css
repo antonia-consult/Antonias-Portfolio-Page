@@ -21,7 +21,7 @@
 */
 
 .background--DarkBlue {
-  background-image: grey-img1.png;
+  background-image: url('grey-img1.PNG')
 }
 
 .color--skyBlue {
